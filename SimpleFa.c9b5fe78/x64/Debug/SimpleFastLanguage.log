@@ -1,4 +1,5 @@
 ﻿  SimpleFastLanguage.cpp
+C:\Users\harlo\source\repos\SimpleFastLanguage\SimpleFastLanguage.cpp(286,33): warning C4267: 'return': conversion from 'size_t' to 'uint32_t', possible loss of data
   SimpleFastLanguage.vcxproj -> C:\Users\harlo\source\repos\SimpleFastLanguage\x64\Debug\SimpleFastLanguage.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.
