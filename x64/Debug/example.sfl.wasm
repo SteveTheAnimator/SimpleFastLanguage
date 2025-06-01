@@ -1,0 +1,18 @@
+(module
+  (memory 1)
+  (export "memory" (memory 0))
+  (func $main (export "main") (result i32)
+    (local $reg0 i32) (local $reg1 i32) (local $reg2 i32) (local $reg3 i32)
+    (local $reg4 f32) (local $reg5 f32)
+    ;; Opcode 40 not implemented
+    i32.const 0
+    local.set $reg0
+    local.get $reg0
+    return
+    local.get $reg0
+    return
+    i32.const 0
+    return
+    i32.const 0
+  )
+)

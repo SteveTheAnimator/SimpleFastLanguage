@@ -1,1 +1,5 @@
-print("He");
+public function main() return int32 is {
+    print("Hello, World!");
+    
+    return 0;
+}
